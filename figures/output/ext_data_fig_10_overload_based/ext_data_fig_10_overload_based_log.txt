@@ -1,0 +1,8 @@
+Fitting a curve of the form a-(a-b)*exp(-c*x) using NonlinearLeastSquares
+Number of upgraded lines:
+ R^2 = 0.999535
+ Estimate of N^{upg}: 5985 lines (4.8%)
+Total capacity upgrade:
+ R^2 = 0.998604
+ Estimate of C^{upg}: 0.34 x 10^6 MVA (0.9%)
+Plots exported to "ext_data_fig_10_overload_based_export.pdf"

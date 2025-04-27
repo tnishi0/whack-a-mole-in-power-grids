@@ -1,0 +1,77 @@
+=== ext_data_fig_10_overload_based_compute ===
+Start date/time: 23-Feb-2025 15:08:44
+For the texas interconnection:
+ Loading "texas_ol_profile_K4000000.mat"...
+ Loading "texas_ol_profile_K4000000_seed3.mat"...
+ Loaded the results for 8000000 perturbations [elapsed time: 00:00:15]
+ i = 2/21: 37416 samples (4 per line) --> 232.3 upgraded lines (2.5%), 0.011804 x 10^6 MVA (0.16%) [elapsed time: 00:00:14]
+ i = 3/21: 74832 samples (8 per line) --> 256.3 upgraded lines (2.7%), 0.012954 x 10^6 MVA (0.18%) [elapsed time: 00:00:14]
+ i = 4/21: 112248 samples (12 per line) --> 277.8 upgraded lines (3.0%), 0.014130 x 10^6 MVA (0.19%) [elapsed time: 00:00:15]
+ i = 5/21: 149664 samples (16 per line) --> 298.8 upgraded lines (3.2%), 0.015095 x 10^6 MVA (0.21%) [elapsed time: 00:00:15]
+ i = 6/21: 187080 samples (20 per line) --> 316.9 upgraded lines (3.4%), 0.015976 x 10^6 MVA (0.22%) [elapsed time: 00:00:15]
+ i = 7/21: 224496 samples (24 per line) --> 333.0 upgraded lines (3.6%), 0.016931 x 10^6 MVA (0.23%) [elapsed time: 00:00:15]
+ i = 8/21: 261912 samples (28 per line) --> 350.4 upgraded lines (3.7%), 0.017911 x 10^6 MVA (0.24%) [elapsed time: 00:00:16]
+ i = 9/21: 299328 samples (32 per line) --> 362.6 upgraded lines (3.9%), 0.018273 x 10^6 MVA (0.25%) [elapsed time: 00:00:16]
+ i = 10/21: 336744 samples (36 per line) --> 381.5 upgraded lines (4.1%), 0.019214 x 10^6 MVA (0.26%) [elapsed time: 00:00:16]
+ i = 11/21: 374160 samples (40 per line) --> 394.0 upgraded lines (4.2%), 0.019903 x 10^6 MVA (0.27%) [elapsed time: 00:00:17]
+ i = 12/21: 411576 samples (44 per line) --> 405.2 upgraded lines (4.3%), 0.020459 x 10^6 MVA (0.28%) [elapsed time: 00:00:17]
+ i = 13/21: 448992 samples (48 per line) --> 416.1 upgraded lines (4.4%), 0.021314 x 10^6 MVA (0.29%) [elapsed time: 00:00:18]
+ i = 14/21: 486408 samples (52 per line) --> 430.6 upgraded lines (4.6%), 0.021869 x 10^6 MVA (0.30%) [elapsed time: 00:00:18]
+ i = 15/21: 523824 samples (56 per line) --> 437.8 upgraded lines (4.7%), 0.022315 x 10^6 MVA (0.30%) [elapsed time: 00:00:18]
+ i = 16/21: 561240 samples (60 per line) --> 450.6 upgraded lines (4.8%), 0.022867 x 10^6 MVA (0.31%) [elapsed time: 00:00:19]
+ i = 17/21: 598656 samples (64 per line) --> 460.1 upgraded lines (4.9%), 0.023397 x 10^6 MVA (0.32%) [elapsed time: 00:00:19]
+ i = 18/21: 636072 samples (68 per line) --> 470.6 upgraded lines (5.0%), 0.024138 x 10^6 MVA (0.33%) [elapsed time: 00:00:19]
+ i = 19/21: 673488 samples (72 per line) --> 480.4 upgraded lines (5.1%), 0.024406 x 10^6 MVA (0.33%) [elapsed time: 00:00:20]
+ i = 20/21: 710904 samples (76 per line) --> 492.2 upgraded lines (5.3%), 0.025096 x 10^6 MVA (0.34%) [elapsed time: 00:00:20]
+ i = 21/21: 748320 samples (80 per line) --> 498.2 upgraded lines (5.3%), 0.025533 x 10^6 MVA (0.35%) [elapsed time: 00:00:20]
+For the west interconnection:
+ Loading "west_ol_profile_K4000000_seed1.mat"...
+ Loading "west_ol_profile_K4000000_seed2.mat"...
+ Loaded the results for 8000000 perturbations [elapsed time: 00:00:16]
+ i = 2/21: 102128 samples (4 per line) --> 1244.3 upgraded lines (4.9%), 0.106892 x 10^6 MVA (1.57%) [elapsed time: 00:00:16]
+ i = 3/21: 204256 samples (8 per line) --> 1274.2 upgraded lines (5.0%), 0.113072 x 10^6 MVA (1.66%) [elapsed time: 00:00:17]
+ i = 4/21: 306384 samples (12 per line) --> 1298.2 upgraded lines (5.1%), 0.117825 x 10^6 MVA (1.73%) [elapsed time: 00:00:18]
+ i = 5/21: 408512 samples (16 per line) --> 1321.3 upgraded lines (5.2%), 0.121458 x 10^6 MVA (1.79%) [elapsed time: 00:00:19]
+ i = 6/21: 510640 samples (20 per line) --> 1339.0 upgraded lines (5.2%), 0.124835 x 10^6 MVA (1.84%) [elapsed time: 00:00:20]
+ i = 7/21: 612768 samples (24 per line) --> 1361.0 upgraded lines (5.3%), 0.130085 x 10^6 MVA (1.91%) [elapsed time: 00:00:21]
+ i = 8/21: 714896 samples (28 per line) --> 1379.9 upgraded lines (5.4%), 0.131891 x 10^6 MVA (1.94%) [elapsed time: 00:00:22]
+ i = 9/21: 817024 samples (32 per line) --> 1393.1 upgraded lines (5.5%), 0.134711 x 10^6 MVA (1.98%) [elapsed time: 00:00:23]
+ i = 10/21: 919152 samples (36 per line) --> 1416.0 upgraded lines (5.5%), 0.139139 x 10^6 MVA (2.05%) [elapsed time: 00:00:24]
+ i = 11/21: 1021280 samples (40 per line) --> 1423.9 upgraded lines (5.6%), 0.139340 x 10^6 MVA (2.05%) [elapsed time: 00:00:25]
+ i = 12/21: 1123408 samples (44 per line) --> 1442.8 upgraded lines (5.7%), 0.144105 x 10^6 MVA (2.12%) [elapsed time: 00:00:26]
+ i = 13/21: 1225536 samples (48 per line) --> 1456.5 upgraded lines (5.7%), 0.145934 x 10^6 MVA (2.15%) [elapsed time: 00:00:27]
+ i = 14/21: 1327664 samples (52 per line) --> 1468.8 upgraded lines (5.8%), 0.148370 x 10^6 MVA (2.18%) [elapsed time: 00:00:28]
+ i = 15/21: 1429792 samples (56 per line) --> 1483.4 upgraded lines (5.8%), 0.151318 x 10^6 MVA (2.23%) [elapsed time: 00:00:29]
+ i = 16/21: 1531920 samples (60 per line) --> 1491.2 upgraded lines (5.8%), 0.153583 x 10^6 MVA (2.26%) [elapsed time: 00:00:30]
+ i = 17/21: 1634048 samples (64 per line) --> 1497.9 upgraded lines (5.9%), 0.153118 x 10^6 MVA (2.25%) [elapsed time: 00:00:31]
+ i = 18/21: 1736176 samples (68 per line) --> 1515.3 upgraded lines (5.9%), 0.156318 x 10^6 MVA (2.30%) [elapsed time: 00:00:32]
+ i = 19/21: 1838304 samples (72 per line) --> 1528.6 upgraded lines (6.0%), 0.159636 x 10^6 MVA (2.35%) [elapsed time: 00:00:33]
+ i = 20/21: 1940432 samples (76 per line) --> 1533.0 upgraded lines (6.0%), 0.160787 x 10^6 MVA (2.37%) [elapsed time: 00:00:34]
+ i = 21/21: 2042560 samples (80 per line) --> 1548.8 upgraded lines (6.1%), 0.163743 x 10^6 MVA (2.41%) [elapsed time: 00:00:35]
+For the east interconnection:
+ Loading "east_ol_profile_K2000000_seed1.mat"...
+ Loading "east_ol_profile_K6000000_seed2.mat"...
+ Loaded the results for 8000000 perturbations [elapsed time: 00:00:15]
+ i = 2/21: 364248 samples (4 per line) --> 2307.9 upgraded lines (2.5%), 0.073941 x 10^6 MVA (0.31%) [elapsed time: 00:00:18]
+ i = 3/21: 728496 samples (8 per line) --> 2440.7 upgraded lines (2.7%), 0.077650 x 10^6 MVA (0.32%) [elapsed time: 00:00:21]
+ i = 4/21: 1092744 samples (12 per line) --> 2548.5 upgraded lines (2.8%), 0.080798 x 10^6 MVA (0.34%) [elapsed time: 00:00:25]
+ i = 5/21: 1456992 samples (16 per line) --> 2661.8 upgraded lines (2.9%), 0.083658 x 10^6 MVA (0.35%) [elapsed time: 00:00:28]
+ i = 6/21: 1821240 samples (20 per line) --> 2745.9 upgraded lines (3.0%), 0.086139 x 10^6 MVA (0.36%) [elapsed time: 00:00:32]
+ i = 7/21: 2185488 samples (24 per line) --> 2823.6 upgraded lines (3.1%), 0.088515 x 10^6 MVA (0.37%) [elapsed time: 00:00:35]
+ i = 8/21: 2549736 samples (28 per line) --> 2899.3 upgraded lines (3.2%), 0.091130 x 10^6 MVA (0.38%) [elapsed time: 00:00:40]
+ i = 9/21: 2913984 samples (32 per line) --> 2968.2 upgraded lines (3.3%), 0.093073 x 10^6 MVA (0.39%) [elapsed time: 00:00:43]
+ i = 10/21: 3278232 samples (36 per line) --> 3022.3 upgraded lines (3.3%), 0.094655 x 10^6 MVA (0.39%) [elapsed time: 00:00:46]
+ i = 11/21: 3642480 samples (40 per line) --> 3080.8 upgraded lines (3.4%), 0.095970 x 10^6 MVA (0.40%) [elapsed time: 00:00:50]
+ i = 12/21: 4006728 samples (44 per line) --> 3129.1 upgraded lines (3.4%), 0.097721 x 10^6 MVA (0.41%) [elapsed time: 00:00:53]
+ i = 13/21: 4370976 samples (48 per line) --> 3183.0 upgraded lines (3.5%), 0.099043 x 10^6 MVA (0.41%) [elapsed time: 00:00:57]
+ i = 14/21: 4735224 samples (52 per line) --> 3220.3 upgraded lines (3.5%), 0.100287 x 10^6 MVA (0.42%) [elapsed time: 00:01:01]
+ i = 15/21: 5099472 samples (56 per line) --> 3266.7 upgraded lines (3.6%), 0.101594 x 10^6 MVA (0.42%) [elapsed time: 00:01:04]
+ i = 16/21: 5463720 samples (60 per line) --> 3302.6 upgraded lines (3.6%), 0.102902 x 10^6 MVA (0.43%) [elapsed time: 00:01:08]
+ i = 17/21: 5827968 samples (64 per line) --> 3340.1 upgraded lines (3.7%), 0.103955 x 10^6 MVA (0.43%) [elapsed time: 00:01:12]
+ i = 18/21: 6192216 samples (68 per line) --> 3366.9 upgraded lines (3.7%), 0.104947 x 10^6 MVA (0.44%) [elapsed time: 00:01:16]
+ i = 19/21: 6556464 samples (72 per line) --> 3405.1 upgraded lines (3.7%), 0.105858 x 10^6 MVA (0.44%) [elapsed time: 00:01:19]
+ i = 20/21: 6920712 samples (76 per line) --> 3430.0 upgraded lines (3.8%), 0.106846 x 10^6 MVA (0.44%) [elapsed time: 00:01:23]
+ i = 21/21: 7284960 samples (80 per line) --> 3465.5 upgraded lines (3.8%), 0.107914 x 10^6 MVA (0.45%) [elapsed time: 00:01:26]
+Saved results to "overload_based_compute.mat"
+End date/time: 23-Feb-2025 15:41:25
+Total elapsed time: 00:32:41
