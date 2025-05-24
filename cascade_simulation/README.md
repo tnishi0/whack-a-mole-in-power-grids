@@ -59,6 +59,10 @@ The demo script allows users to choose one of the cascade simulation strategies 
 2. The script will prompt you to select a strategy (Failure-based, Frequency-based, or Overload-based).
 3. Enter the required parameters for the selected strategy.
 4. The chosen cascade simulation strategy will run, and results will be saved in the `results/` directory.
+5. Approximate run time on a typical desktop computer:
+   - Failure-based: 5 min
+   - Frequency-based: 15 min
+   - Overload-based: 2 min
 
 ## Conclusion
 
