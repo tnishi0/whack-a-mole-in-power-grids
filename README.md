@@ -16,10 +16,10 @@ This repository contains code for running cascade simulations for power-grid net
 - Matpower [only version 6 is tested] (Download from https://matpower.org/download/all-releases/).
 
 ### Setup Instructions:
-1. Download this repository and place it in a directory on your system.
-2. Download Matpower version 6 from the official release page: https://matpower.org/download/all-releases/ and placed inside the folder `library`.
+1. Download this repository and place it in a directory on your system. This should take less than a minute on a typical desktop computer.
+2. Download Matpower version 6 from the official release page: https://matpower.org/download/all-releases/ and place it inside the folder `library`. This should also take less than a minute on a typical desktop computer.
 
 ## Usage
 Start Matlab in this folder. Then, execute:
-* `cd cascade_simulation` to go into the `cascade_simulation` folder and follow [the instructions there](cascade_simulation) to run sample cascade simulations.
-* `cd figures` to go into the `figures` folder and follow [the instructions there](figures) to run the code to reproduce figures in the manuscript.
+* `cd cascade_simulation` to go into the `cascade_simulation` folder and follow [the instructions there](cascade_simulation) to run sample cascade simulations (including the typical run time information). To run cascade simulations on your power system data, put the data in the Matpower case file format and follow the instructions in the `cascade_simulation` folder.
+* `cd figures` to go into the `figures` folder and follow [the instructions there](figures) to run the code to reproduce figures in the manuscript. It takes approximately 5 min to run the demo `generate_figures` with option `a` and generate all the figures on a typical desktop computer.
